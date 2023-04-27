@@ -1,0 +1,12 @@
+.active {
+    background-color: #483f53;
+}
+
+.inactive {
+    
+}
+
+#Individual_Link:hover {
+    background-color: #483f53;
+    color: #c9c9c9;
+}
